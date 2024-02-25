@@ -1,0 +1,6 @@
+CLIENT_ID=<client id>
+CLIENT_SECRET=<client-secreet>
+AUTHORITY=https://login.microsoftonline.com/<tenant-id>/oauth2/token
+RESOURCE=https://<fhir server name>.azurehealthcareapis.com
+BASE_URL=https://<fhir server name>.azurehealthcareapis.com
+TENANT_ID=<tenant-id>
